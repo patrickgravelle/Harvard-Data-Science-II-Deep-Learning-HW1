@@ -11,3 +11,4 @@ The goals of this assignment are to 1) become familiar with small neural network
 ## Code
 
 See the accompanying Jupyter Notebook file to view my full assignment with answers.
+
